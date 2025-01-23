@@ -1,7 +1,5 @@
 package com.auladev.dslist.entities;
 
-import java.util.Objects;
-
 import jakarta.persistence.Id;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
